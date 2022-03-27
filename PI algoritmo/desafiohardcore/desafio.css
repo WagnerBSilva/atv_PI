@@ -1,0 +1,80 @@
+.div1 {
+    background-color: #855454;
+    height: 250px;
+    width: 75%;
+    border:solid 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.div2 {
+
+    background-color: white;
+    border: solid darkblue 8px;
+    height: 70%;
+    width: 75%;
+    margin-top: 0.5%;
+    font: bold;
+
+}
+p {
+    margin-top: 7% ;
+    margin-left: 10%;
+    font-size: 30px;
+    font-family: arial;
+    color: blue;
+    font-weight: bold;
+}
+
+.div3 {
+    background-color: blue;
+    height:35px;
+    width: 65%;
+    margin: 4% 25% 0% 20%;
+
+}
+.div4 {
+    background-color: purple;
+    height: 35px;
+    width: 43%;
+    margin: 0% 25% 0% 30%;
+}
+.div5 {
+    background-color: green;
+    height: 35px;
+    width: 55%;
+    margin: 0% 25% 0% 24%;
+}
+.div6 {
+    background-color: yellow;
+    height: 35px;
+    width: 50%;
+    margin: 0% 25% 0% 26.5%;
+}
+
+.mochila_pizza {
+display: flex;
+margin-top: 4%;
+margin-left: 2%;
+}
+
+.pizza1 {
+    background-color: red;
+height: 35px;
+width: 40%;
+
+}
+
+.pizza2 {
+    background-color:#1f7d8a;
+    height: 35px;
+    width: 20%;
+}
+.pizza3 {
+    background-color:#00ff0d;
+    height: 35px;
+    width:  35%;
+}

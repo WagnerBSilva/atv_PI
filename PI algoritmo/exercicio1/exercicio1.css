@@ -1,0 +1,70 @@
+.divPai {
+    background-color: #ffa500;
+    width: 500px;
+    height: 500px;
+    margin-left: 10%;
+
+}
+.divFilhote {
+    background-color: #ffffff;
+    width: 150px;
+    height: 150px;
+    margin-left: 60%;
+    padding-top: 10%;
+
+}
+
+.divFilho {
+    background-color: #ffffff;
+    width: 150px;
+    height: 150px;
+    margin-left: 5%;
+}
+p {
+    color: white ;
+    background-color: orange;
+    font-size: 15px;
+    font-family: monospace;
+    font-weight: bold;
+
+
+}
+.divPai2 {
+    width: 50%;
+    height: 50vh;
+    background-color:#19362c60;
+    margin-left: 10%;
+    
+
+}
+.divFilho2 {
+    width: 10vw;
+    height: 40%;
+    background-color: red;
+    margin-left: 15%;
+
+
+}
+.divNeto {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    margin-left: 10%;
+
+}
+.divbico {
+    background-color: yellow;
+    width: 200px;
+    height: 50px;
+    border-radius: 100px 0px 0px 0px;
+    float: left;
+    
+}
+
+.olho {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    margin-left: 10%;
+    align-items: center;
+}
